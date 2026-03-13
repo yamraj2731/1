@@ -1,0 +1,30 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamraj2731/1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yamraj2731/1/issues"
+  },
+  "homepage": "https://github.com/yamraj2731/1#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "exiftool-vendored": "^35.13.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0",
+    "multer": "^2.1.1",
+    "telegram": "^2.26.22"
+  }
+}
